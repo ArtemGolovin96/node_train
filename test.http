@@ -1,0 +1,5 @@
+GET http://localhost:7777/card/16600
+###
+GET http://localhost:7777/card/1330
+###
+GET http://localhost:7777/card?count=10&offset=100500
